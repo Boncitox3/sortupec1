@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94189970470",
+    "project_id": "sortupec-a7601",
+    "storage_bucket": "sortupec-a7601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94189970470:android:b8e29a557a22b45a7032e7",
+        "android_client_info": {
+          "package_name": "com.example.sortupec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94189970470-d7chh774g2qh56lpf99e77ahskd9lc7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sortupec",
+            "certificate_hash": "5659d24c56fc00749a3f4ee4a3077003edb880c1"
+          }
+        },
+        {
+          "client_id": "94189970470-jk2c5jkd2l8kp8j08s7hdc3sheii09oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp12Yf2VMC8amtDZFPS9tQ1I_u15R3Ul0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94189970470-jk2c5jkd2l8kp8j08s7hdc3sheii09oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

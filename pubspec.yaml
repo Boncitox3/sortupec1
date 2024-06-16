@@ -1,0 +1,44 @@
+name: sortupec
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^4.19.5
+  google_sign_in: ^6.2.1
+  firebase_core: ^2.31.0
+  cupertino_icons: ^1.0.6
+  image_picker: ^0.8.4+4
+  provider: ^6.0.3
+  url_launcher: ^6.2.6
+  intl: ^0.19.0
+  flutter_launcher_icons: ^0.13.1
+  path_provider: ^2.1.3
+  http: ^0.13.5
+  google_maps_flutter: ^2.2.4
+  google_maps_webservice: ^0.0.20-nullsafety.5
+  flutter_google_places_hoc081098: ^1.2.0
+  geocoding: ^2.0.4
+  cloud_firestore: ^4.17.5
+  logger: ^2.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.jpeg
+    - assets/google_logo.jpeg
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  image_path: "assets/icon/icon.png"
